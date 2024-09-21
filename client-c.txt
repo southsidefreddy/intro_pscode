@@ -2,3 +2,15 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Task C
+
+
+
+
+1 scan = 2 products
+While scan print sum
+25 scans = 1 case
+When 25 scans is reached restart the loop
+
+
+
