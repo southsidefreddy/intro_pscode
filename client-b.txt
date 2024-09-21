@@ -2,3 +2,14 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+Task B
+
+User inputs variable(x)
+If x = north
+  print('go north')
+Else if x = east
+  print('go east')
+Else if x = west
+  print('go west')
+Else
+  print('go south')
