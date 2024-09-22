@@ -4,12 +4,12 @@
 
 Task B
 
-User inputs variable(x)
-If x = north
+User inputs variable(i)
+If i = north
   print('go north')
-Else if x = east
+Else if i = east
   print('go east')
-Else if x = west
+Else if i = west
   print('go west')
 Else
   print('go south')
